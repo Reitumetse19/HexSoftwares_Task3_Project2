@@ -1,6 +1,6 @@
 # HexSoftwares_Task3_Project2
 
-The Dataset was abstracted from Kaggle.com and it contains of the following:
+The Dataset was extracted from Kaggle.com and it contains of the following:
 
 Total Countries/Regions: 187
 
